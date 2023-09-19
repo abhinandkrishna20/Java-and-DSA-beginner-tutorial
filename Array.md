@@ -33,6 +33,7 @@
 
 ```java
 public class ArrayExample {
+    import java.util.Arrays;
     public static void main(String[] args) {
         // Creating an array
         int[] myArray = {10, 20, 30, 40, 50};
@@ -70,3 +71,4 @@ public class ArrayExample {
         System.out.println("Array length: " + arrayLength);
     }
 }
+```
