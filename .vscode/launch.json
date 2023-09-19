@@ -1,29 +1,6 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
     "configurations": [
         
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "ArrayExample",
-            "request": "launch",
-            "mainClass": "Array.ArrayExample",
-            "projectName": "DSA Tutorial_5df53864"
-        },
-        {
-            "type": "java",
-            "name": "LinkedList$LinkedListExample",
-            "request": "launch",
-            "mainClass": "LinkedList.LinkedList$LinkedListExample",
-            "projectName": "DSA Tutorial_5df53864"
-        }
+
     ]
 }
